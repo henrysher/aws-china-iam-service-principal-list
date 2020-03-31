@@ -1,5 +1,4 @@
-# aws-china-iam-service-principal-list
-It is a **Validated**  List for IAM Service Principals in AWS China Regions
+# Validated IAM Service Principal List for AWS China Regions.
 
 | Service Name | Description | IAM Service Principal |
 |:------------- |:-------------|:---------|
